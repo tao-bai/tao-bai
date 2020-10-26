@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tao-bai)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=tao-bai&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+### :octocat: Tao Bai :rocket:
+
+- :mortar_board: Nanyang Technological University :palm_tree: :palm_tree: :palm_tree:
+
+- :house: [homepage](https://tao-bai.github.io/)
