@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=tao-bai&show_icons=true&theme=vue" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-### Tao Bai :rocket:
+### Tao Bai [:house:](https://tao-bai.github.io/) :rocket:
 
 - :mortar_board: Nanyang Technological University :palm_tree: :palm_tree: :palm_tree:
 - :hammer: Currently a Ph.D. student working on adversarial machine learning.
-- :house: [homepage](https://tao-bai.github.io/)
 - :wink: Open for interships or collaborations. 
 
