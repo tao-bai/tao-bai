@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 ### Tao Bai :rocket:
 
 - :mortar_board: Nanyang Technological University :palm_tree: :palm_tree: :palm_tree:
-
+- :hammer: Currently a Ph.D. student working on adversarial machine learning.
 - :house: [homepage](https://tao-bai.github.io/)
+- :wink: Open for interships or collaborations. 
+
