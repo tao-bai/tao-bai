@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=tao-bai&show_icons=true&theme=vue" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=tao-bai&show_icons=true&theme=vue-dark" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ### Tao Bai [[homepage](https://tao-bai.github.io/)]
 
