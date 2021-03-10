@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Tao Bai [[homepage](https://tao-bai.github.io/)]
 
-- :mortar_board: currently a Ph.D. student in Nanyang Technological University
+- :mortar_board: currently a Ph.D. student in Nanyang Technological University.
 - :hammer: interested in and working on adversarial machine learning.
-- :wink: open for interships or collaborations.
+- :wink: open for interships and collaborations.
 
