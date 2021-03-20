@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - :mortar_board: currently a Ph.D. student in Nanyang Technological University.
 - :hammer: interested in and working on adversarial machine learning.
-- :wink: open for interships and collaborations.
+- :wink: open for interships (2022 spring or summer, China or Singapore) and collaborations.
 
