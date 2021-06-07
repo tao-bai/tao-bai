@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=tao-bai&show_icons=true&theme=vue-dark" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ### Tao Bai [[homepage](https://tao-bai.github.io/)]
-:star2: gonna start my internship@Huawei(SG) in Jun 2021.
 
-- :mortar_board: currently a Ph.D. student in Nanyang Technological University.
+- :mortar_board: currently CS a Ph.D. student in Nanyang Technological University.
+- :boy: doing the internship@Shield lab, SRC, 2012 Lab, Huawei.
 - :hammer: interested in and working on adversarial machine learning.
 - :raised_hands: open for interships (2022 spring&summer in China&Singapore) and collaborations.
 
