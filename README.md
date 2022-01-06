@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ### Tao Bai [[homepage](https://tao-bai.github.io/)]
 
 - :mortar_board: currently a CS Ph.D. student@Nanyang Technological University.
-- :boy: doing the internship@Shield lab, SRC, 2012 Lab, Huawei.
 - :hammer: interested in and working on adversarial machine learning.
 - :raised_hands: open for internships (2022 spring&summer in China&Singapore) and collaborations.
 
